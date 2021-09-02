@@ -8,7 +8,7 @@ The NEWS is classified into 4 categories:
 3. Commerce  
 4. Science&Technology   
 
-More detail would be available in kaggle: https://www.kaggle.com/c/hw2-ycbs-273-intro-to-prac-ml/overview  
+If you want to work on this, the data and more detail would be available in kaggle: https://www.kaggle.com/c/hw2-ycbs-273-intro-to-prac-ml/overview  
 
 ## Acknowledge
 Before starting, I would like to thank my lecturer Arbaaz Khan for his patience and guidance. It was because of you that I was exposed to the wide world of Machine Learning.
